@@ -13,6 +13,7 @@ matrix:
       ignores:
       - code
       - pre
+      - github
   sources:
   - '**/*.md'
   default_encoding: utf-8
